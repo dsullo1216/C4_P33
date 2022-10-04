@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_msg">Please enter a string below to be ciphered </string>
+    <string name="btn_msg">Change Cipher Amount</string>
+    <string name="shift_title">Currently, your shift amount is: </string>
+</resources>
